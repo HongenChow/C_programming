@@ -1,0 +1,1 @@
+void trans(long long int wheel[], int n, int t);
